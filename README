@@ -1,0 +1,23 @@
+# 🪄 JS Expanding Cards
+
+A simple and interactive project built using **HTML, CSS, and JavaScript** that displays a set of image cards.  
+Each card expands smoothly when clicked, creating a modern and engaging animation effect.
+
+---
+
+## 🌟 Features
+- Smooth expanding animation on click  
+- Fully responsive design  
+- Simple and clean user interface  
+- Built with pure HTML, CSS, and JavaScript (no libraries)
+
+---
+
+## 🧠 What I Learned
+- How to manipulate the DOM with JavaScript  
+- Adding and removing CSS classes dynamically  
+- Using CSS transitions for smooth animations
+
+---
+
+## 🧩 Project Structure
